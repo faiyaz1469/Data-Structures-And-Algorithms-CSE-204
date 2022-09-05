@@ -1,0 +1,22 @@
+Test case: 1
+Min Dice throws required is 3
+1 -> 3 -> 5 -> 19 -> 20
+All reachable
+Test case: 2
+Min Dice throws required is 3
+1 -> 2 -> 14 -> 19 -> 20
+All reachable
+Test case: 3
+Min Dice throws required is 4
+1 -> 7 -> 20 -> 25 -> 38 -> 42 -> 50
+All reachable
+Test case: 4
+Invalid input
+Test case: 5
+Min Dice throws required is 5
+1 -> 2 -> 4 -> 5 -> 16 -> 18 -> 20
+All reachable
+Test case: 6
+Min Dice throws required is -1
+No solution
+26 27 28 29 30 
